@@ -67,6 +67,7 @@ const Search = () => {
                             bg-rose-500
                             rounded-full
                             text-full
+                            text-white
                         "
                     >
                        <BiSearch size={18}/> 
